@@ -1,11 +1,11 @@
 {
-  "name": "westfield-core",
+  "name": "westfield-scally",
   "version": "0.0.1",
-  "homepage": "https://github.com/westfield/westfield_core",
+  "homepage": "https://github.com/westfieldlabs/westfield_scally",
   "description": "Westfield's CSS framework that sits on top of the open source Scally CSS framework",
   "repository": {
     "type": "git",
-    "url": "https://github.com/westfield/westfield_core"
+    "url": "https://github.com/westfieldlabs/westfield_scally"
   },
   "author": [
     "Chris Pearce <cpearce@westfield.com>",
@@ -14,7 +14,7 @@
     "Sean Gee <sgee@westfield.com>"
   ],
   "bugs": {
-    "url": "https://github.com/westfield/westfield_core/issues"
+    "url": "https://github.com/westfieldlabs/westfield_scally/issues"
   },
   "devDependencies": {
     "grunt": "^0.4.5",

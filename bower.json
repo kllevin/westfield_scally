@@ -1,7 +1,7 @@
 {
-  "name": "Westfield Core",
+  "name": "Westfield Scally",
   "version": "0.0.52",
-  "homepage": "https://github.com/westfield/westfield_core",
+  "homepage": "https://github.com/westfieldlabs/westfield_scally",
   "private": true,
   "authors": [
     "Chris Pearce <cpearce@westfield.com>",

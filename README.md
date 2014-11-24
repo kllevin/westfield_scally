@@ -2,20 +2,20 @@
 
 # Overview
 
-The Westfield Core CSS Framework (WFC) sits on top of our open source CSS framework [Scally](https://github.com/westfieldlabs/scally) and is specific to Westfield, mostly based off this: <http://styleguide.westfieldlabs.com/>.
+The Westfield Scally CSS Framework (WS) sits on top of our open source CSS framework [Scally](https://github.com/westfieldlabs/scally) and is specific to Westfield, mostly based off this: <http://styleguide.westfieldlabs.com/>.
 
 It follows the exact same architecture as [Scally](https://github.com/westfieldlabs/scally).
 
-Think of WFC as the lick of paint and Scally as the scaffolding.
+Think of WS as the lick of paint and Scally as the scaffolding.
 
-*More documentation coming soon*, in the meantime ask any questions in the **Westfield Core Framework** HipChat room or email any of the Westfield Labs front end engineers:
+*More documentation coming soon*, in the meantime ask any questions in the **Westfield Scally Framework** HipChat room or email any of the Westfield Labs front end engineers:
 
 - [Chris Pearce](mailto:cpearce@westfield.com)
 - [Alec Raeside](mailto:araeside@westfield.com)
 - [Kate Levin](mailto:klevin@westfield.com)
 - [Sean Gee](mailto:sgee@westfield.com)
 
-Use the repo's [GitHub Issues](https://github.com/westfield/westfield_core/issues) to log any issues, additions, enhancements, or ideas.
+Use the repo's [GitHub Issues](https://github.com/westfieldlabs/westfield_scally/issues) to log any issues, additions, enhancements, or ideas.
 
 
 
@@ -34,7 +34,7 @@ Use the repo's [GitHub Issues](https://github.com/westfield/westfield_core/issue
 
 # Linting
 
-To ensure a consistent authored code base and to keep things clean and readable WFC uses the [`scss-lint` tool](https://github.com/causes/scss-lint).
+To ensure a consistent authored code base and to keep things clean and readable WS uses the [`scss-lint` tool](https://github.com/causes/scss-lint).
 
 ## Installation and usage
 
@@ -52,7 +52,7 @@ Which will lint *everything*, to lint at a more granular level [see](https://git
 
 ## Linting rules
 
-WFC's linting rules can be [found here](.scss-lint.yml). And WFC has a Rake test setup that'll run the `scss-lint` tool automatically to ensure no badly formatted CSS goes into the framework.
+WS' linting rules can be [found here](.scss-lint.yml). And WS has a Rake test setup that'll run the `scss-lint` tool automatically to ensure no badly formatted CSS goes into the framework.
 
 # Licence
 
